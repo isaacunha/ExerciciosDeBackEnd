@@ -9,28 +9,16 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.generation</groupId>
-	<artifactId>farmacia</artifactId>
+	<artifactId>lojagames</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>farmacia</name>
-	<description>Exercicio de BackEnd de uma farmacia</description>
+	<name>lojagames</name>
+	<description>Exercicio de BackEnd para uma loja de games</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-<<<<<<< HEAD
-			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>commons-codec</groupId>
-			<artifactId>commons-codec</artifactId>
-			<version>1.10</version>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-=======
->>>>>>> 6db1d0d7112d3291aeefdbbf60f5c722b2688c87
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
 		<dependency>
