@@ -14,8 +14,7 @@ import javax.validation.constraints.Size;
 import org.hibernate.annotations.UpdateTimestamp;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.generation.artativa.model.Categoria;
-import com.generation.artativa.model.Usuario;
+
 
 @Entity
 @Table(name = "tb_produto")
